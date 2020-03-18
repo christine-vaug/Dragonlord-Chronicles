@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92daf112177ee0949b8d567a674768c5, type: 3}
+  m_Name: Tidal Serpent
+  m_EditorClassIdentifier: 
+  DisplayName: Tidal Serpent
+  battleSprite: {fileID: 21300036, guid: cfa1305fbb3115c4e852f8474e7a2b82, type: 3}
+  CurrentHealth: 10
+  MaxHealth: 10
+  CurrentMana: 100
+  MaxMana: 100
+  Dead: 0
+  Offense: 4
+  Defense: 2
+  Magic: 9
+  Speed: 11
+  TempOffense: 1
+  TempDefense: 1
+  TempMagic: 1
+  TempSpeed: 1
+  Level: 1
+  Experience: 0
+  Tier: 1
+  Gold: 0
+  Spells:
+  - {fileID: 11400000, guid: 80bd30c2e7ce99f46abda5388eeb1a37, type: 2}
+  - {fileID: 11400000, guid: 947cdc7f823d5bc488f9defe406a7a4a, type: 2}
+  - {fileID: 11400000, guid: 7509eb10edf2aa0448eedb3d3260c004, type: 2}
+  - {fileID: 11400000, guid: 36486224e41872c498d270e6184d7da7, type: 2}
+  numSpells: 4
+  spellIndex: 0
+  DragonList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  activeDragon: 0
+  numDragons: 0
+  ItemUsed: 
+  element: 0

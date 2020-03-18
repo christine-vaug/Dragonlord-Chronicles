@@ -1,0 +1,10 @@
+We got the finest weapons and armor.
+
+Choice: What kind of stuff do you sell?
+ThingsToSell.txt
+
+Choice: (SHOP) Let me see your wears. 
+ShowWears.txt
+
+Choice: Goodbye
+TakeCare.txt

@@ -1,0 +1,7 @@
+Are you prepared for your final test to become the Dragon Lord?
+
+Choice: (BATTLE) Yes. I am ready to claim my title.
+Fight.txt
+
+Choice: Not yet. I must return to training.
+Decline.txt

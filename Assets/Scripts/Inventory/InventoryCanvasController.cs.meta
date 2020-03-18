@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a0bbb2938f934044d9b5d4456a7b092b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InventoryWindow: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - ExitButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

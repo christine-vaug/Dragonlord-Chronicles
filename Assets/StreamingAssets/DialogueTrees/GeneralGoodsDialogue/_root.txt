@@ -1,0 +1,10 @@
+You need some supplies? There is no place better than here.
+
+Choice: What kind of stuff do you sell?
+ThingsToSell.txt
+
+Choice: (SHOP) Let me see your wears. 
+ShowWears.txt
+
+Choice: Goodbye
+TakeCare.txt

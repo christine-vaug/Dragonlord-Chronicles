@@ -1,0 +1,13 @@
+First prototype demo will be on Wednesday, December 5th at 9:30am. We don't all need to attend since it is just with Eelke.
+ 
+Final prototype demo will be on Tuesday, December 11th at 9:00am.
+
+Ideally, we want to be able to show as much as possible so they can get a good understanding of how the game will function and they have more material to work off of when they perform their critique. 
+
+
+1) Scene Management
+2) Inventory Management
+3) Battle Scene
+4) Dragon Database
+5) UI Design
+6) ...

@@ -1,0 +1,10 @@
+All kinds of things. Potions. Food. Please take a look.
+
+Choice: (SHOP) Let me see what you have for sale.
+ShowWears.txt
+
+Choice: Where can I find weapons and armor?
+Directions.txt
+
+Choice: Goodbye
+TakeCare.txt

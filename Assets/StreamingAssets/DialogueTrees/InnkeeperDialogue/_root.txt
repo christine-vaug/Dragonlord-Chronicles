@@ -1,0 +1,7 @@
+You in need of a place to sleep? I can spare a room for 10 Gold.
+
+Choice: (SLEEP) Yes.
+Sleep.txt
+
+Choice: No.
+Decline.txt

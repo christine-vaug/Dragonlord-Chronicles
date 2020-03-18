@@ -1,0 +1,7 @@
+Bad trouble.
+
+Choice: That's...helpful
+Welcome.txt
+
+Choice: Nevermind
+Good.txt

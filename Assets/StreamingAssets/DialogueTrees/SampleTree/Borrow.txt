@@ -1,0 +1,6 @@
+It's too dangerous. You will blow your arm off.
+
+Choice: [Explosives 30] How hard can it be? Just light the fuse and throw?
+Failure: Yeah...you're probably right.
+GetExplosives.txt
+FailExplosives.txt

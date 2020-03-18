@@ -1,0 +1,3 @@
+Use this document to post issues with errors/bugs. Be as detailed as possible with how you cause it to happen.
+
+Attempting to push changes while logged on at the same time as Ryan. Looks like this works! - Christine

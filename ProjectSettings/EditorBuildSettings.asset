@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Battle Scenes/Battle.unity
+    guid: 52addb80e0f98034484c6b1cb9058268
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Town.unity
+    guid: 08801e3c81e92ff429f028eab9f2ba3a
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Town - Interior.unity
+    guid: 82aebd953436f0d4da13d42ce3ab85c4
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Overworld.unity
+    guid: 4d71fa2979d01cc4eb2658ae927d3686
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Caves.unity
+    guid: 22f12eb7ff09bd545a0c8d3fadc50b1f
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Boss.unity
+    guid: 19bb0c9850f266843b59578f784956da
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Overworld - West.unity
+    guid: 774d21db5189a434b9d1220b1c69ca55
+  - enabled: 1
+    path: Assets/Scenes/_Game Scenes/Credits.unity
+    guid: 04e14b21b5bb04743b9f64dc6b2093b1
+  m_configObjects: {}

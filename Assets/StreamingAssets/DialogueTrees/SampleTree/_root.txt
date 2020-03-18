@@ -1,0 +1,13 @@
+Howdy, what can Easy Pete do for ya?
+
+Choice: Do you know anything about the people who attacked me?
+FancySuit.txt
+
+Choice: What do you know about Joe Cobb?
+JoeCobb.txt
+
+Choice: Can I borrow some dynamite?
+Borrow.txt
+
+Choice: Goodbye
+TakeCare.txt

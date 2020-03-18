@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92daf112177ee0949b8d567a674768c5, type: 3}
+  m_Name: Dragon(Old)
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  battleSprite: {fileID: 0}
+  CurrentHealth: 0
+  MaxHealth: 0
+  CurrentMana: 0
+  MaxMana: 0
+  Dead: 0
+  Offense: 0
+  Defense: 0
+  Magic: 0
+  Speed: 0
+  TempOffense: 0
+  TempDefense: 0
+  TempMagic: 0
+  TempSpeed: 0
+  Level: 0
+  Experience: 0
+  Tier: 0
+  Gold: 0
+  Spells:
+  - {fileID: 0}
+  - {fileID: 0}
+  numSpells: 0
+  spellIndex: 0
+  DragonList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  activeDragon: 0
+  numDragons: 0
+  ItemUsed: 
+  element: 0

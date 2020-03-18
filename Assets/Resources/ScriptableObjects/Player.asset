@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c606eff70081614399fb923e6f69364, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  DisplayName: Player
+  battleSprite: {fileID: 0}
+  CurrentHealth: 15
+  MaxHealth: 15
+  CurrentMana: 0
+  MaxMana: 0
+  Dead: 0
+  Offense: 22
+  Defense: 6
+  Magic: 0
+  Speed: 11
+  TempOffense: 1
+  TempDefense: 1
+  TempMagic: 0
+  TempSpeed: 1
+  Level: 2
+  Experience: 100
+  Tier: 1
+  Gold: 15900
+  Spells: []
+  numSpells: 0
+  spellIndex: 0
+  DragonList:
+  - {fileID: 11400000, guid: e8db41003a563da40b597ab23a850c34, type: 2}
+  - {fileID: 11400000, guid: 4b8678791c1a2144381729f6f625a73b, type: 2}
+  - {fileID: 11400000, guid: 186159140ff22184aac792420ccacd6d, type: 2}
+  - {fileID: 11400000, guid: dca989107aafe7d41a816768b43afca7, type: 2}
+  activeDragon: 2
+  numDragons: 4
+  ItemUsed: 

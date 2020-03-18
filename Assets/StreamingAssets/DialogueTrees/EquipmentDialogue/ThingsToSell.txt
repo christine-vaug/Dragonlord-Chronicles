@@ -1,0 +1,10 @@
+All kinds of things. Swords. Sheilds. Armor. What do you need?
+
+Choice: (SHOP) Let me see you have for sale.
+ShowWears.txt
+
+Choice: Where can I find potions and food?
+Directions.txt
+
+Choice: Goodbye
+TakeCare.txt
