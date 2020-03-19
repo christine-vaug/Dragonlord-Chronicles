@@ -1,11 +1,17 @@
 # Dragonlord Chronicles
-##Senior Software Engineering Capstone Design Project at University of Reno, Nevada - Fall 2018 to Spring 2019
-
+Senior Software Engineering Capstone Design Project at University of Reno, Nevada - Fall 2018 to Spring 2019</br>
+</br>
 This game is a very simplistic role-playing game akin to Pokemon, but very watered-down.</br>
 </br>
 For more details on this project, including documentation, visit https://dragonlord-chronicles.weebly.com/
 
-# Music Credits
+## Team Members
+Ryan Lieu</br>
+Jonathan Meade</br>
+Sean Stevens</br>
+Christine Vaughan (Me)</br>
+
+## Music Credits
 "Kings and Dragons"</br>
 Composed by Kim Lightyear</br>
 Liscensed CC-BY 3.0</br>
